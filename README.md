@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there
 
-<!--
-**s0ftc0de/s0ftc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m G — a developer who builds clean, functional web projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- React.js  
+- JavaScript (ES6+)  
+- Python & Django  
+- HTML / CSS
+- PHP
+- API development (REST, custom integrations)
+
+---
+
+## Freelance Availability
+
+Open to freelance work.  
+I take on projects like:
+- Small web builds  
+- Custom blog-style or portfolio sites  
+- Frontend UI with clean code  
+- Full-stack web apps with backend APIs
+
+If you’re looking for consistency and quiet, reliable collaboration — check out my work.
+
+---
+
+### Contact
+
+Email: dream.creater96 [at] gmail [dot] com
+
+---
+
+Thanks for visiting.
+ 
