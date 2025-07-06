@@ -9,7 +9,7 @@ I’m a developer who builds clean, functional web projects.
 - React.js  
 - JavaScript (ES6+)  
 - Python & Django  
-- HTML / CSS
+- HTML / CSS , Tailwind, Bootstrap
 - PHP
 - API development (REST, custom integrations)
 
