@@ -1,6 +1,6 @@
 # Hi there
 
-I’m G — a developer who builds clean, functional web projects.
+I’m a developer who builds clean, functional web projects.
 
 ---
 
