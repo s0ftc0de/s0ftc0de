@@ -6,8 +6,8 @@ I’m a developer who builds clean, functional web projects.
 
 ### Tech Stack
 
-- React.js  
-- JavaScript (ES6+)  
+- React, Vue, Vite, Next
+- JavaScript (ES6+), Typescript  
 - Python & Django  
 - HTML / CSS , Tailwind, Bootstrap
 - PHP
